@@ -1,9 +1,17 @@
 # SBSPS-Challenge-2128-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
 ## Team Name: - X Æ A-4
-In this project, our server application subscribes to a Twitter feed with hashtags of "Covid19". Each tweet received will be analyzed for emotional tone and sentiment, and the intent of the tweet will be determined by the Watson Assistant service. All data is stored in a Cloudant database. The resulting analysis is presented in a web-framework (dashboard) as a series of graphs and charts.
+In this project, our server application subscribes to a **LIVE** Twitter feed with hashtags of "Covid19". Each tweet received will be analyzed for emotional tone and sentiment, and the intent of the tweet will be determined by the Watson Assistant service. All data is stored in a Cloudant database. The resulting analysis is presented in a web-framework (dashboard) as a series of graphs and charts.
 
 ## Youtube
 https://youtu.be/6VqK6cLwGZQ
+
+## Live app link
+> Note: - The link may or may not be active. We are using the free plan of IBM cloud service and as this project takes LIVE tweets this requires us to change the api credentials after certain period of time based on the number of tweets stored in the cloudant. 
+
+> If you want to see the live demo, refer the youtube link given above or contact us to on the website at `2018.abhay.gupta@ves.ac.in`
+
+https://cognitive-social-crm-persistent-quokka-ch.eu-gb.mybluemix.net
+
 
 ## Flow
 
