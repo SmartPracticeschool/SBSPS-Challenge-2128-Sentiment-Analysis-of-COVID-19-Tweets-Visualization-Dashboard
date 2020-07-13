@@ -1,5 +1,5 @@
 # SBSPS-Challenge-2128-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
-
+## Team Name: - X Æ A-4
 In this project, our server application subscribes to a Twitter feed with hashtags of "Covid19". Each tweet received will be analyzed for emotional tone and sentiment, and the intent of the tweet will be determined by the Watson Assistant service. All data is stored in a Cloudant database. The resulting analysis is presented in a web-framework (dashboard) as a series of graphs and charts.
 
 ## Youtube
@@ -183,7 +183,14 @@ as well as Classification of live tweets, Sentiment over time, Emotional Tone ov
 
 ![](doc/source/images/tweetPage.jpeg)
 
+## Team Members: -
+Jay Jhaveri: https://github.com/JayJhaveri1906
 
+Prem Chhabria: https://github.com/premchhabria
+
+Abhay Gupta: https://github.com/abhay8463
+
+Prasad Govekar: https://github.com/govekarmohit
 
 
 
