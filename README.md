@@ -2,6 +2,9 @@
 
 In this project, our server application subscribes to a Twitter feed with hashtags of "Covid19". Each tweet received will be analyzed for emotional tone and sentiment, and the intent of the tweet will be determined by the Watson Assistant service. All data is stored in a Cloudant database. The resulting analysis is presented in a web-framework (dashboard) as a series of graphs and charts.
 
+## Youtube
+https://youtu.be/6VqK6cLwGZQ
+
 ## Flow
 
 ![](doc/source/images/architecture.png)
