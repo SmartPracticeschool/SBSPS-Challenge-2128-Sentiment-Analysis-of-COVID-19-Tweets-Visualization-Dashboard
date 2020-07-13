@@ -10,7 +10,7 @@ https://youtu.be/6VqK6cLwGZQ
 
 > If you want to see the live demo, refer the youtube link given above or contact us to on the website at `2018.abhay.gupta@ves.ac.in`
 
-https://cognitive-social-crm-persistent-quokka-ch.eu-gb.mybluemix.net
+[Dashboard Link](https://cognitive-social-crm-persistent-quokka-ch.eu-gb.mybluemix.net)
 
 
 ## Flow
