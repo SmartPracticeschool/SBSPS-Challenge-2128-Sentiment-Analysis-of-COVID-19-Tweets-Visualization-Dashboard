@@ -177,13 +177,13 @@ The server runs on port `3000` and the `client` runs on port `4200`. You can acc
 
 You will see informations about Tweets:
 
-![](doc/source/images/crm_ss_2.png)
+![](doc/source/images/homePage.jpeg)
 
 as well as Classification of live tweets, Sentiment over time, Emotional Tone over time, and Keywords mentioned:
 
-![](doc/source/images/crm_ss_1.png)
+![](doc/source/images/tweetPage.jpeg)
 
-![](doc/source/images/crm_ss_3.png)
+
 
 
 
