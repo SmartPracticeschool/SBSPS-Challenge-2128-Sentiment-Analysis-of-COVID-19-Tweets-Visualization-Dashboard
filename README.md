@@ -98,7 +98,6 @@ Create the following services:
 
 >NOTE: When provisioning Cloudant, for `Available authentication methods` choose `Use both legacy credentials and IAM`
 
-![Cloudant](https://raw.githubusercontent.com/IBM/watson-online-store/master/doc/source/images/cloudantChooseLegacy.png)
 
 ### 4. Import the Watson Assistant skill
 
@@ -131,8 +130,6 @@ The credentials for IBM Cloud services (Tone Analyzer, Natural Language Understa
 
 > NOTE: When provisioning Cloudant, for `Available authentication methods` choose `Use both legacy credentials and IAM`
 
-![Cloudant](https://raw.githubusercontent.com/IBM/watson-online-store/master/doc/source/images/cloudantChooseLegacy.png)
-
 From the root of the project, go to `server` folder (`cd server`) and
 
 Add all the credentials that you have saved from creating the services, as explained earlier, in the `.env` file.
@@ -164,10 +161,6 @@ $ ibmcloud app push
 ```
 
 4. The application should now be running on IBM Cloud and listening to Tweets. You can get the application URL by going to `Cloud Foundry Applications` section of IBM cloud dashboard. Click the name of the application you just pushed and clikc `Visit App URL` to access the application.
-
-![](doc/source/images/ibm-cloud-dashboard.png)
-
-![](doc/source/images/visit-app-url.png)
 
 #### Running the app locally
 
