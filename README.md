@@ -7,7 +7,6 @@ https://youtu.be/6VqK6cLwGZQ
 
 ## Power Point Presentation (ppt): - 
 [PPT](docs/twitterSenti.pptx)
-![](docs/twitterSenti.pptx)
 
 ## Live app link
 > Note: - The link may or may not be active. We are using the free plan of IBM cloud service and as this project takes LIVE tweets this requires us to change the api credentials after certain period of time based on the number of tweets stored in the cloudant. 
