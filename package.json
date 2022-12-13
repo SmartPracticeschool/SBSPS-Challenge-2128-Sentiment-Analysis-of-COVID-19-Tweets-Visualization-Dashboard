@@ -30,7 +30,7 @@
   "dependencies": {
     "@angular/cli": "^9.1.8",
     "concurrently": "^3.6.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "tslint-eslint-rules": "^5.4.0",
